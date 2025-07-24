@@ -347,8 +347,8 @@ minishell/
 
 ## 👥 Authors
 
-- **fuyar** - *Main Developer* - Core implementation and architecture
-- **faata** - *Co-Developer* - Built-in commands and utilities
+- **fuyar** - *Co-Developer*
+- **faata** - *Co-Developer*
 
 ## 📄 License
 
